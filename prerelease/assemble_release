@@ -1,0 +1,11 @@
+echo Creating release file structure
+mkdir -p GameData/SlaveDriver
+cp ../files/ModuleManager.*.dll GameData
+cp ../files/ModuleManagerLicense.md GameData
+cp ../files/changelog.txt GameData/SlaveDriver
+cp ../files/*.cfg GameData/SlaveDriver
+cp -R ../files/localization GameData/SlaveDriver
+cp ../src/bin/Release/SlaveDriver.dll GameData/SlaveDriver
+cp ../LICENSE GameData/SlaveDriver
+cp ../README.md GameData/SlaveDriver
+echo Done.

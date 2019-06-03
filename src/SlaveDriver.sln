@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlaveDriver", "SlaveDriver.csproj", "{166F64BB-8439-4FD0-9959-8BC693E3C157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166F64BB-8439-4FD0-9959-8BC693E3C157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166F64BB-8439-4FD0-9959-8BC693E3C157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {729D8D03-C144-43FF-A7F7-10B05544DFF1}
+	EndGlobalSection
+EndGlobal
